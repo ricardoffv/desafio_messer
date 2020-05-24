@@ -1,4 +1,4 @@
-# Projeto de Gerenciamento de Vendas - Desafio Messer/Onovolab
+# Projeto de Gerenciamento de Vendas
 
 Este repositório contém a organização do projeto referente a um gerenciamento de vendas online. A organização do projeto ocorre da seguinte maneira:
 * database_information: contém as informações de conexão ao SQL Server
